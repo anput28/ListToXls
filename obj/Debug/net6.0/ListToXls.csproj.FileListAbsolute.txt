@@ -1,0 +1,15 @@
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\bin\Debug\net6.0\ListToXls.exe
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\bin\Debug\net6.0\ListToXls.deps.json
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\bin\Debug\net6.0\ListToXls.runtimeconfig.json
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\bin\Debug\net6.0\ListToXls.dll
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\bin\Debug\net6.0\ListToXls.pdb
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\obj\Debug\net6.0\ListToXls.csproj.AssemblyReference.cache
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\obj\Debug\net6.0\ListToXls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\obj\Debug\net6.0\ListToXls.AssemblyInfoInputs.cache
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\obj\Debug\net6.0\ListToXls.AssemblyInfo.cs
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\obj\Debug\net6.0\ListToXls.csproj.CoreCompileInputs.cache
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\obj\Debug\net6.0\ListToXls.dll
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\obj\Debug\net6.0\refint\ListToXls.dll
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\obj\Debug\net6.0\ListToXls.pdb
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\obj\Debug\net6.0\ListToXls.genruntimeconfig.cache
+C:\Users\Putignano.DESKTOP-3E69OCU\Documents\Workspaces\dotnet-workspace\ListToXls\obj\Debug\net6.0\ref\ListToXls.dll

@@ -1,0 +1,26 @@
+
+		        <html>
+		        <head>
+		        <style>
+		        table, td, th {
+		            border: 1px solid black;
+		        }
+
+		        table {
+		            border-collapse: collapse;
+		            width: 100%;
+		        }
+
+		        th {
+		            height: 50px;
+		            vertical-align: center;
+		        }
+		
+		        td {
+		            height: 50px;
+		            vertical-align: top;
+		        }
+		        </style>
+		        </head>	
+		        <body>
+	        <table><tr><th>Title</th><th>Author</th></tr><tr><td>Super Slow</td><td>Jaded Juice Riders</td></tr><tr><td>Gutter Girl</td><td>Hot Flash Heat Wave</td></tr><tr><td>Satellite</td><td>STRFKR</td></tr><tr><td>Rose Pink Cadillac</td><td>DOPE LEMON</td></tr><tr><td>Rocky Said</td><td>Dead Ghosts</td></tr><tr><td>Lets Go Surfing</td><td>The Drums</td></tr></table></body></html>
